@@ -1,0 +1,7 @@
+#Category,Dir,Name of file,Date of file,Is old file removed ?,Is new file written?
+
+Date of the earliest BKTransaction changed or added by Compta= ,2147483647
+
+Debug
+Debug,nullCompta_bunker_v3/09_Output_files/Debug/BKDebugAllBKTransactions/,20220129_BKDebugAllBKTransactions.csv,20220129,false,true
+Debug,nullCompta_bunker_v3/09_Output_files/Debug/BKDebugPullOutAllBKBars/,20220129_BKDebugPullOutAllBKBars.csv,20220129,false,true

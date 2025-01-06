@@ -1,0 +1,12 @@
+/staticdata/
+/step00_freeze_transactions/
+/step01_objects_from_conf_files/
+/step02_load_transactions/
+/step03_partitions/
+/step04_debug/
+/step05_transactions_computed_by_compta/
+/step06_operations_after_transactions_created/
+/step07_reconciliation/
+/step08_output_files/
+/step09_fiscal_year_end/
+/step10_launchme/
